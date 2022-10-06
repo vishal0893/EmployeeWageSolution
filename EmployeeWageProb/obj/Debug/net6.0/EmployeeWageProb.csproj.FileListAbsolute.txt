@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\bin\Debug\net6.0\EmployeeWageProb.exe
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\bin\Debug\net6.0\EmployeeWageProb.deps.json
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\bin\Debug\net6.0\EmployeeWageProb.runtimeconfig.json
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\bin\Debug\net6.0\EmployeeWageProb.dll
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\bin\Debug\net6.0\EmployeeWageProb.pdb
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.dll
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\refint\EmployeeWageProb.dll
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.pdb
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\EmployeeWageProb.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\EmployeeWageProbSol\EmployeeWageProb\obj\Debug\net6.0\ref\EmployeeWageProb.dll
